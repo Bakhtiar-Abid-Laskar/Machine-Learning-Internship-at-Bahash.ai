@@ -54,24 +54,6 @@ The internship progressed through the following core modules:
     * `numpy`: For numerical computations.
     * `matplotlib` / `seaborn`: For data visualization.
 
-## 🚀 How to Run
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/yourusername/Bahash-ML-Internship.git](https://github.com/yourusername/Bahash-ML-Internship.git)
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd Bahash-ML-Internship
-    ```
-3.  Install dependencies (optional, if a requirements file is present):
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  Launch Jupyter Notebook to view the projects:
-    ```bash
-    jupyter notebook
-    ```
 
 ## 📈 Future Scope
 
@@ -79,4 +61,4 @@ The internship progressed through the following core modules:
 * Deploying selected models using Flask or Streamlit.
 
 ---
-*Maintained by [Your Name]*
+
